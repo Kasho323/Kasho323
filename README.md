@@ -3,7 +3,7 @@
   Replace items marked TODO before pushing.
 -->
 
-## Hi, I'm Kasho 👋
+## Hi, I'm Cairenbading 👋
 
 MSc Applied AI @ University of Warwick (graduating 2026) · BSc Computer Science @ Beijing Jiaotong University
 
@@ -33,4 +33,4 @@ I prefer Python-native + small, well-understood libraries over heavy frameworks.
 
 Looking for **2026 graduate roles in AI engineering** — open to UK / Europe / Singapore / China.
 
-📫 <!-- TODO: cairenbading@gmail.com or alt --> · 🔗 [LinkedIn](#) <!-- TODO: paste URL --> · 🌐 [Blog](#) <!-- TODO: paste URL or remove -->
+📫 [cairenbading@gmail.com](mailto:cairenbading@gmail.com)
