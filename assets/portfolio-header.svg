@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kasho323 — Applied AI and useful software</title>
+  <desc id="desc">An editorial portfolio banner: research, engineering, and real-world applications.</desc>
+  <rect width="1200" height="360" rx="20" fill="#102C2A"/>
+  <path d="M846 0H1200V360H846Z" fill="#183936"/>
+  <path d="M884 70H1144M884 180H1144M884 290H1144M914 42V318M1024 42V318M1134 42V318" stroke="#33514A" stroke-width="1"/>
+  <path d="M904 264L976 192L1048 222L1120 100" fill="none" stroke="#B9CFAD" stroke-width="3"/>
+  <g fill="#D7E7C7"><circle cx="904" cy="264" r="6"/><circle cx="976" cy="192" r="6"/><circle cx="1048" cy="222" r="6"/><circle cx="1120" cy="100" r="6"/></g>
+  <text x="64" y="69" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="4" fill="#B9CFAD">KASHO323 / SELECTED WORK</text>
+  <text x="60" y="144" font-family="Georgia,serif" font-size="57" fill="#F6F2E8">Applied AI.</text>
+  <text x="60" y="211" font-family="Georgia,serif" font-size="57" fill="#F6F2E8">Useful software.</text>
+  <path d="M64 251H766" stroke="#426058"/>
+  <text x="64" y="293" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#D3DCD1">RESEARCH</text>
+  <text x="258" y="293" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#D3DCD1">ENGINEERING</text>
+  <text x="492" y="293" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#D3DCD1">REAL-WORLD APPLICATIONS</text>
+</svg>
